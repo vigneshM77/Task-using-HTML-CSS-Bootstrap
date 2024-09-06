@@ -1,0 +1,60 @@
+.headingicon{
+    width: fit-content !important;
+    margin: 0 !important;
+}
+.navcolor{
+    background-color: #A3A380;
+}
+.effect li:hover{
+    border-bottom: 5px solid lightgray;
+    font-size: larger;
+}
+.first {
+    background-color: #A3A380;
+}
+.box:hover{
+    border: none;
+    cursor: pointer;
+    background-color:yellowgreen;
+}
+.dinner{
+    position: relative;
+}
+
+.littlebox{
+    background-color: #f0eab8;
+    margin-top: 20% !important;
+    gap: 30px !important;
+}
+.bote button{
+    width: 5px !important;
+    height: 5px !important;
+    border-radius: 50% !important;
+    margin-bottom: -30px !important;
+}
+.fot{
+    background-color: #EFEBCE;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.absol {
+    display: inline;
+    top: 200px;
+    left:350px;
+}
+.h-20 {
+    height: 50px;
+    width: 125px;
+}
+.cardo{
+    gap: 30px !important;
+}
+.boxes{
+    gap: 20px !important;
+}
+.vic li{
+   margin-top: 20px !important;
+}
